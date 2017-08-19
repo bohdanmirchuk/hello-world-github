@@ -1,1 +1,2 @@
 I need to push a text file with some content. The length of text should be more than 100 chars. Hmm... I hope that I've already coped with this reuiqrement.
+This is the next paragraph. I did some changes
